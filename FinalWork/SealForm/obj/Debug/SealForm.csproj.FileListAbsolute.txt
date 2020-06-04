@@ -1,0 +1,10 @@
+E:\VS DATA\FinalWork\SealForm\bin\Debug\SealForm.exe.config
+E:\VS DATA\FinalWork\SealForm\bin\Debug\SealForm.exe
+E:\VS DATA\FinalWork\SealForm\bin\Debug\SealForm.pdb
+E:\VS DATA\FinalWork\SealForm\obj\Debug\SealForm.csprojAssemblyReference.cache
+E:\VS DATA\FinalWork\SealForm\obj\Debug\SealForm.Form1.resources
+E:\VS DATA\FinalWork\SealForm\obj\Debug\SealForm.Properties.Resources.resources
+E:\VS DATA\FinalWork\SealForm\obj\Debug\SealForm.csproj.GenerateResource.cache
+E:\VS DATA\FinalWork\SealForm\obj\Debug\SealForm.csproj.CoreCompileInputs.cache
+E:\VS DATA\FinalWork\SealForm\obj\Debug\SealForm.exe
+E:\VS DATA\FinalWork\SealForm\obj\Debug\SealForm.pdb
